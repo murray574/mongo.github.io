@@ -68,7 +68,7 @@ body {
   }
 
   img.muppets {
-      background-image: url("/images/tenor.gif");
+      background-image: url("/zzz-stuff/images/tenor.gif");
       background-size: contain;
       width: 100%; /* or any custom size */
       height: 100%; 
