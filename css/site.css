@@ -1,15 +1,14 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
 body {
-    /* width: 100vh; */
-    height: 100vh;
     background: linear-gradient(to bottom right, rgba(19, 20, 19, 0.6), rgba(19, 20, 19, 0.973), rgba(19, 20, 19, 0.973)) center no-repeat;
     background-size: cover; 
     color: rgb(155, 175, 155);
     font-family: 'Montserrat', sans-serif;
-}
-
-.main {
-    margin: 1em 1em;
-    width: 100vh;
 }
 
 .topnav {
@@ -69,7 +68,7 @@ body {
   }
 
   img.muppets {
-      background-image: url("/zzz-stuff/images/tenor.gif");
+      background-image: url("/images/tenor.gif");
       background-size: contain;
       width: 100%; /* or any custom size */
       height: 100%; 
