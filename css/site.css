@@ -1,4 +1,5 @@
 html, body {
+  background: linear-gradient(to bottom right, rgba(19, 20, 19, 0.6), rgba(19, 20, 19, 0.973), rgba(19, 20, 19, 0.973)) center no-repeat;
   height: 100%;
   width: 100%;
   margin: 0;
@@ -9,7 +10,7 @@ h1 {
 }
 
 body {
-    background: linear-gradient(to bottom right, rgba(19, 20, 19, 0.6), rgba(19, 20, 19, 0.973), rgba(19, 20, 19, 0.973)) center no-repeat;
+    /* background: linear-gradient(to bottom right, rgba(19, 20, 19, 0.6), rgba(19, 20, 19, 0.973), rgba(19, 20, 19, 0.973)) center no-repeat; */
     background-size: cover; 
     color: rgb(155, 175, 155);
     font-family: 'Montserrat', sans-serif;
