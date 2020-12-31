@@ -81,15 +81,10 @@ body {
   .imageMuppet {
       grid-column: 1 / 1;
       justify-self: center;
-      height: 29vh;
-      width: 52vh;
   }
-
+  
   img.muppets {
-      background-image: url("/zzz-stuff/images/tenor.gif");
-      background-size: contain;
-      width: 100%; /* or any custom size */
-      height: 100%; 
-      object-fit: contain;
-      background-repeat: no-repeat;
+    object-fit: cover;
+    width: 100%;
+    height: auto;
   }
